@@ -1,0 +1,6 @@
+/packages
+/.vs
+/TriangleExists/bin
+/TriangleExists/obj
+/TriangleExists.Tests/bin
+/TriangleExists.Tests/obj
